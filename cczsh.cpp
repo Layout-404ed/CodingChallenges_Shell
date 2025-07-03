@@ -2,8 +2,8 @@
 // link: https://codingchallenges.fyi/challenges/challenge-shell/#step-zero
 
 // ansi color codes
-#define RED "\\u001b[31m"
-#define RESET "\\033[0m"
+#define RED "\u001b[31m"
+#define RESET "\033[0m"
 
 // libraries
 #include<iostream> // stdio
